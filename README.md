@@ -21,3 +21,5 @@ cd Lobster-Event-Copilot
 pip install -r requirements.txt
 # 在 .env 中填入大模型 API Key 后运行
 python agent_core.py --url "输入币安活动的真实链接"
+🛡️ 安全边界与声明
+本项目严格遵守非侵入式决策原则：“只导航，不代操”。系统只做规则推演与路径规划，输出标准化的操作步骤，绝不越权代替用户执行真实的资金划转与链上交互。
